@@ -1,0 +1,5 @@
+{
+  "name": "JSON to CSV Converter",
+  "description": "A sleek and efficient tool to convert JSON data into CSV format. Paste your JSON, convert it instantly, and download the resulting CSV file with a single click.",
+  "requestFramePermissions": []
+}
